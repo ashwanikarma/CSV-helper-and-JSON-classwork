@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hS6T0U/nZsc8s6ZViUpdRTtCA2O5xgUFW1p+Xfn+sZz/1TVqJgeEL5Tg2pmFcy8EjnwNXBexVggKAeUgKSbiGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashwa\\Documents\\RFP .net BridgeLabz\\practice workshop\\CSVhelperAndJSON\\CSVhelperAndJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashwa\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\ashwa\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ashwa\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
